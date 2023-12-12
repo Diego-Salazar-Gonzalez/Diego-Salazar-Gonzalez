@@ -1,4 +1,4 @@
-# 💫 About Me:
+# "Hello, I am Diego Salazar  ✌️."
 "I am a novice web developer 👨‍💻 who really enjoys learning and creating projects. The languages I use the most are JavaScript and Java."
 
 
